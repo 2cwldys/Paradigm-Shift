@@ -1,0 +1,15 @@
+Before using, remove the following files from your schema:
+-> /items/sh_beer.lua
+-> /items/sh_bleach.lua
+-> /items/sh_breens_water.lua
+-> /items/sh_chinese_takeout.lua
+-> /items/sh_citizen_supplements.lua
+-> /items/sh_large_soda.lua
+-> /items/sh_melon.lua
+-> /items/sh_metropolice_supplements.lua
+-> /items/sh_milk_carton.lua
+-> /items/sh_milk_jug.lua
+-> /items/sh_smooth_breens_water.lua
+-> /items/sh_special_breens_water.lua
+-> /items/sh_vegetable_oil.lua
+-> /items/sh_whiskey.lua
