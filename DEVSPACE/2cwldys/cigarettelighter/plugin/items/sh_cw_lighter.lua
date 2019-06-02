@@ -11,7 +11,7 @@
 
 local ITEM = Clockwork.item:New("weapon_base");
 
-    ITEM.name = "Cigarette Lighter";
+    ITEM.name = "Makeshift Cigarette Lighter";
 
     ITEM.cost = 5;
 
