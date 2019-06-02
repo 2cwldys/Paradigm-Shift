@@ -1,13 +1,36 @@
-local RECIPE = PLUGIN.recipe:New();
+local BLUEPRINT = Clockwork.item:New("blueprint_base");
 
-RECIPE.name = "Yellow Rot Cure";
-RECIPE.uniqueID = "yellow_rot_cure";
-RECIPE.model = "models/props_c17/TrapPropeller_Lever.mdl";
-RECIPE.skin = 0;
-RECIPE.category = "Weapon Blueprints";
-RECIPE.description = "The cure to the yellow plague of doom";
-RECIPE.ingredients = {["cloth"] = 1 , ["backpack"] = 1};
-RECIPE.result = {["yellow_rot_cure"] = 1};
-RECIPE.hidden = false;
+BLUEPRINT.name = "Yellow Rot Cure";
+BLUEPRINT.model = "models/props_c17/TrapPropeller_Lever.mdl";
+BLUEPRINT.weight = 0.5;
 
-RECIPE:Register();
+BLUEPRINT.category = "Weapon Blueprints";
+BLUEPRINT.crafting = true;
+
+-- A function to check for the required materials for a craft.
+function BLUEPRINT:HasMaterials(player)
+	return
+	{
+		{"Backpack", 1},
+		{"Cloth", 2}
+	}
+end;
+
+-- A function to take the required materials for a craft.
+function BLUEPRINT:TakeMaterials(player)
+	return
+	{
+		{"Backpack", 1},
+		{"Cloth", 2},
+	}
+end;
+
+-- A function to give a player a crafted item.
+function BLUEPRINT:GiveCraft(player)
+	return
+	{
+		{"yellow_rot_cure", 1}
+	}
+end;
+
+BLUEPRINT:Register();
