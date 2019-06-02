@@ -27,7 +27,7 @@ local ITEM = Clockwork.item:New("weapon_base");
 
     ITEM.business = true;
 
-    ITEM.description = "A light rifle with a burst fire mechanism, Commonly used by the 'Enforcers'.";
+    ITEM.description = "A light rifle with a burst fire mechanism, commonly used by the 'Enforcers'.";
 
     ITEM.isAttachment = true;
 
