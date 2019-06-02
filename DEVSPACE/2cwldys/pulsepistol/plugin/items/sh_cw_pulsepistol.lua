@@ -27,7 +27,7 @@ local ITEM = Clockwork.item:New("weapon_base");
 
     ITEM.business = true;
 
-    ITEM.description = "A packaged Lapis pulse pistol, commonly manufactured and bought for self protection uses.";
+    ITEM.description = "A packaged Lapis pulse pistol, commonly manufactured and bought for self protection uses. Manufactured by the Guinan Corporation.";
 
     ITEM.isAttachment = true;
 
