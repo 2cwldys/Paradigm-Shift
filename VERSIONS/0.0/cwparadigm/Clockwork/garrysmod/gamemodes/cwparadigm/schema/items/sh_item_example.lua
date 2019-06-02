@@ -24,6 +24,7 @@ ITEM.uniqueID = "example_item";
 ITEM.business = true;
 ITEM.category = "CategoryExample";
 ITEM.description = "ItemExampleDesc";
+--ITEM.attachment = true;
 
 -- Called when a player drops the item.
 function ITEM:OnDrop(player, position) end;
