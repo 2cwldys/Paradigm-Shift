@@ -61,3 +61,16 @@ Plugin finished?: Yes
 Plugin Addon(s) used:
 https://steamcommunity.com/sharedfiles/filedetails/?id=1447058881 -- HL2TS2 Update
 --
+Plugin Name: sh_cw_lighter.lua
+Plugin Version: 1.0
+Plugin created by: 2cwldys
+Plugin finished?: Yes
+Plugin Addon(s) used: None.
+--
+Plugin Name: sh_cw_shieldorb.lua
+Plugin Version: 1.0
+Plugin created by: 2cwldys
+Plugin finished?: No
+Plugin Addon(s) used:
+https://steamcommunity.com/sharedfiles/filedetails/?id=420970650 --  Darken217's SciFi Weapons
+-

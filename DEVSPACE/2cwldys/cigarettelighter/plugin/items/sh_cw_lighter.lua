@@ -11,23 +11,21 @@
 
 local ITEM = Clockwork.item:New("weapon_base");
 
-    ITEM.name = "Energy Revitalizing Orb";
+    ITEM.name = "Cigarette Lighter";
 
-    ITEM.cost = 500;
+    ITEM.cost = 5;
 
-    ITEM.model = "models/Items/combine_rifle_ammo01.mdl";
+    ITEM.model = "models/Items/battery.mdl";
 
-    ITEM.weight = 0.5;
+    ITEM.weight = 0.2;
 
-    ITEM.access = "V";
+    ITEM.access = "v";
 
-    ITEM.type = "Medical";
-
-    ITEM.uniqueID = "sfi_health";
+    ITEM.type = "Main";
 
     ITEM.business = true;
 
-    ITEM.description = "A packaged energy revitalizing orb. Highly expensive, utilized for extreme immediate medical purposes. Manufactured by the Guinan Corporation.";
+    ITEM.description = "A modified high-voltage battery utilized as a makeshift cigarette lighter, a tweaker's dream come true. It omits a blue flame.";
 
     ITEM.isAttachment = false;
 
