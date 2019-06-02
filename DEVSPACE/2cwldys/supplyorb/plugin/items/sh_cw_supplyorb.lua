@@ -31,7 +31,7 @@ local ITEM = Clockwork.item:New("weapon_base");
 
     ITEM.isAttachment = false;
 
-    ITEM.hasFlashlight = true;
+    ITEM.hasFlashlight = false;
 
     ITEM.loweredOrigin = Vector(3, 0, -4);
 

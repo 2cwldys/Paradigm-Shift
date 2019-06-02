@@ -11,9 +11,9 @@
 
 local ITEM = Clockwork.item:New("weapon_base");
 
-    ITEM.name = "Energy Revitalizing Orb";
+    ITEM.name = "Energy Shield Orb";
 
-    ITEM.cost = 500;
+    ITEM.cost = 800;
 
     ITEM.model = "models/Items/combine_rifle_ammo01.mdl";
 
@@ -21,13 +21,13 @@ local ITEM = Clockwork.item:New("weapon_base");
 
     ITEM.access = "V";
 
-    ITEM.type = "Medical";
+    ITEM.type = "Ammo";
 
-    ITEM.uniqueID = "sfi_health";
+    ITEM.uniqueID = "sfi_shield";
 
     ITEM.business = true;
 
-    ITEM.description = "A packaged energy revitalizing orb. Highly expensive, utilized for extreme immediate medical purposes. Manufactured by the Guinan Corporation.";
+    ITEM.description = "A packaged energy shield orb. Highly expensive, protects the user for a brief time in an adaptive forcefield. Manufactured by the Guinan Corporation.";
 
     ITEM.isAttachment = false;
 
