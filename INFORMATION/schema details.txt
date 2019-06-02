@@ -1,0 +1,5 @@
+Your serial key is below.
+DO NOT LOSE IT.
+Make sure your schema folder is located at garrysmod/gamemodes/cwparadigm and the garrysmod/gamemodes/cwparadigm/cwparadigm.txt file has the name property set as 'Paradigm Shift'.
+
+d335fbf088fbab5ded4b6824132d83a5
