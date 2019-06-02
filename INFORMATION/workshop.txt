@@ -13,3 +13,17 @@ Plugin created by: StEEL
 Plugin finished?: N/A
 Plugin Addon(s) used:
 https://steamcommunity.com/sharedfiles/filedetails/?id=420970650 --  Darken217's SciFi Weapons
+--
+Plugin Name: sh_cw_aquamarinerifle.lua
+Plugin Version: 1.0
+Plugin created by: 2cwldys
+Plugin finished?: Yes
+Plugin Addon(s) used:
+https://steamcommunity.com/sharedfiles/filedetails/?id=420970650 --  Darken217's SciFi Weapons
+--
+Plugin Name: sh_cw_vaporcannon.lua
+Plugin Version: 1.0
+Plugin created by: 2cwldys
+Plugin finished?: Yes
+Plugin Addon(s) used:
+https://steamcommunity.com/sharedfiles/filedetails/?id=420970650 --  Darken217's SciFi Weapons
