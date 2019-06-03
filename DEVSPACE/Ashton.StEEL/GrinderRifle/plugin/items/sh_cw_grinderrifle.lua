@@ -27,7 +27,7 @@ local ITEM = Clockwork.item:New("weapon_base");
 
     ITEM.business = true;
 
-    ITEM.description = "A makeshift heavy Submachine-Gun with a high-rate of gun fire.";
+    ITEM.description = "A makeshift heavy Submachine-Gun with a high-rate of gun fire. It fires chunks of bits and screws.";
 
     ITEM.isAttachment = true;
 

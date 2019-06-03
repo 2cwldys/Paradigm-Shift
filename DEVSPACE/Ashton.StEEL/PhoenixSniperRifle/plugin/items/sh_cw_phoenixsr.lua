@@ -27,7 +27,7 @@ local ITEM = Clockwork.item:New("weapon_base");
 
     ITEM.business = true;
 
-    ITEM.description = "A Sniper Energy Rifle that has devastating blow at long to medium range. manufactured by the Guinan Corporation.";
+    ITEM.description = "A sniper energy rifle that has devastating blow at long to medium range. Manufactured by the Guinan Corporation.";
 
     ITEM.isAttachment = true;
 
