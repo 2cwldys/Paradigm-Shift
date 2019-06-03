@@ -94,3 +94,38 @@ Plugin created by: StEEL
 Plugin finished?: Yes
 Plugin Addon(s) used:
 https://steamcommunity.com/sharedfiles/filedetails/?id=420970650 --  Darken217's SciFi Weapons
+--
+Plugin Name: sh_cw_phoenixsr.lua
+Plugin Version: 1.0 
+Plugin created by: StEEL
+Plugin finished?: Yes
+Plugin Addon(s) used:
+https://steamcommunity.com/sharedfiles/filedetails/?id=420970650 --  Darken217's SciFi Weapons
+--
+Plugin Name: sh_cw_heatwavelr.lua
+Plugin Version: 1.0
+Plugin created by: StEEL
+Plugin finished?: Yes
+Plugin Addon(s) used:
+https://steamcommunity.com/sharedfiles/filedetails/?id=420970650 --  Darken217's SciFi Weapons
+--
+Plugin Name: sh_cw_cyronicegrenade.lua
+Plugin Version: 1.0
+Plugin created by: StEEL
+Plugin finished?: Yes
+Plugin Addon(s) used:
+https://steamcommunity.com/sharedfiles/filedetails/?id=420970650 --  Darken217's SciFi Weapons
+--
+Plugin Name: sh_cw_cssvectra.lua
+Plugin Version: 1.0
+Plugin created by: StEEL
+Plugin finished?: Yes
+Plugin Addon(s) used:
+https://steamcommunity.com/sharedfiles/filedetails/?id=420970650 --  Darken217's SciFi Weapons
+--
+Plugin Name: sh_cw_seraphimsg.lua
+Plugin Version: 1.0
+Plugin created by: StEEL
+Plugin finished?: Yes
+Plugin Addon(s) used:
+https://steamcommunity.com/sharedfiles/filedetails/?id=420970650 --  Darken217's SciFi Weapons
