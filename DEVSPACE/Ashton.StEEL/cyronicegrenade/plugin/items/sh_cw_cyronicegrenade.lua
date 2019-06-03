@@ -13,9 +13,9 @@ local ITEM = Clockwork.item:New("weapon_base");
 
     ITEM.name = "T3i 'Cryon' ice grenade";
 
-    ITEM.cost = 15000;
+    ITEM.cost = 5000;
 
-    ITEM.model = "models/weapons/w_grenade.mdl";
+    ITEM.model = "models/items/grenadeammo.mdl";
 
     ITEM.weight = 5;
 

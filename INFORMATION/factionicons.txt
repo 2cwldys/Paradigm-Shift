@@ -1,0 +1,1 @@
+Faction icons must be bordered and resized (initially) to 512 x 256.
