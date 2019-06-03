@@ -9,8 +9,8 @@ FACTION.isCombineFaction = true;
 FACTION.whitelist = true;
 FACTION.material = "paradigmrp/factions/GuinanCorporation";
 FACTION.models = {
-	female = {"models/player/kerry/thalia_sheriff_02.mdl, models/player/kerry/f_sheriff_04.mdl, models/player/kerry/f_sheriff_03.mdl"},
-	male = {"models/kerry/detective/male_09.mdl, models/kerry/detective/male_08.mdl, models/kerry/detective/male_07.mdl, models/kerry/detective/male_06.mdl, models/kerry/detective/male_05.mdl, models/kerry/detective/male_04.mdl, models/kerry/detective/male_03.mdl, models/kerry/detective/male_02.mdl, models/kerry/detective/male_01.mdl"}
+	female = {"models/dpfilms/metropolice/c08cop_female.mdl"},
+	male = {"models/dpfilms/metropolice/c08cop.mdl"}
 };
 
 -- Called when a player's model should be assigned for the faction.
