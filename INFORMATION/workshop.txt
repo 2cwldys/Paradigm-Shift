@@ -129,3 +129,10 @@ Plugin created by: StEEL
 Plugin finished?: Yes
 Plugin Addon(s) used:
 https://steamcommunity.com/sharedfiles/filedetails/?id=420970650 --  Darken217's SciFi Weapons
+
+Plugin Name: sh_cw_thunderbolt.lua
+Plugin Version: 1.0
+Plugin created by: CodeFlare
+Plugin finished?: Yes
+Plugin Addon(s) used:
+https://steamcommunity.com/sharedfiles/filedetails/?id=420970650 --  Darken217's SciFi Weapons
