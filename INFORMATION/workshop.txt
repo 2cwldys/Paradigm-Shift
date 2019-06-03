@@ -129,12 +129,13 @@ Plugin created by: StEEL
 Plugin finished?: Yes
 Plugin Addon(s) used:
 https://steamcommunity.com/sharedfiles/filedetails/?id=420970650 --  Darken217's SciFi Weapons
-
-Plugin Name: sh_cw_thunderbolt.lua
+--
+Plugin Name: copanimfix
 Plugin Version: 1.0
-Plugin created by: CodeFlare
-Plugin finished?: Yes
+Plugin created by: 2cwldys
+Plugin finished?: N/A
 Plugin Addon(s) used:
+<<<<<<< HEAD
 https://steamcommunity.com/sharedfiles/filedetails/?id=420970650 --  Darken217's SciFi Weapons
 --
 Plugin Name: sh_cw_m9kswsm24.lua
@@ -143,3 +144,8 @@ Plugin created by: StEEL
 Plugin finished?: Yes
 Plugin Addon(s) used: 
 https://steamcommunity.com/sharedfiles/filedetails/?id=128091208 -- M9K Heavy Weapons
+=======
+https://steamcommunity.com/sharedfiles/filedetails/?id=1620790122 -- Detective police and sheriff
+https://steamcommunity.com/sharedfiles/filedetails/?id=755229772 -- The Female Police
+--
+>>>>>>> 8be3a95f1c1a808b083c782b01ad3e51926b3060
