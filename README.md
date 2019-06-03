@@ -7,6 +7,7 @@ Paradigm Shift is a neo noir sci-fi roleplaying schema set in the futuristic Mec
 - Stephen '2cwldys'
 - Ashton 'StEEL'
 - CodeFlare 'Flare'
+- CCTV
 
 # Contributors:
 Indirect:
