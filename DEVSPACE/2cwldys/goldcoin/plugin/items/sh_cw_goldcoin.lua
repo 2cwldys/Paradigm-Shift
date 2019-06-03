@@ -17,7 +17,7 @@ local ITEM = Clockwork.item:New("weapon_base");
 
     ITEM.model = "models/stevencz/other/coin/c009.mdl";
 
-    ITEM.weight = 0.2;
+    ITEM.weight = 0.1;
 
     ITEM.access = "v";
 
