@@ -1,11 +1,12 @@
 --[[
-	© 2013 CloudSixteen.com do not share, re-distribute or modify
+	ï¿½ 2013 CloudSixteen.com do not share, re-distribute or modify
 	without permission of its author (kurozael@gmail.com).
 --]]
 
-local FACTION = Clockwork.faction:New("Citizen");
+local FACTION = Clockwork.faction:New("Civilian");
 
 FACTION.useFullName = true;
+FACTION.material = "paradigmrp/factions/Civilian";
 FACTION.models = {
 	female = {
 		"models/humans/rajio/female_01.mdl",
@@ -73,4 +74,4 @@ function FACTION:OnTransferred(player, faction, name)
 	end;
 end;
 
-FACTION_CITIZEN = FACTION:Register();
+FACTION_CIVILIAN = FACTION:Register();
