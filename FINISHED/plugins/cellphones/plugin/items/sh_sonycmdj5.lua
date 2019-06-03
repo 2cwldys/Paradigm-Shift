@@ -7,7 +7,7 @@ ITEM.weight = 0.8;
 ITEM.access = "1";
 ITEM.category = "Communication";
 ITEM.business = true;
-ITEM.description = "A celluar device that allow communication.";
+ITEM.description = "A celluar device that allows communication.";
 
 -- Called when a player drops the item.
 function ITEM:OnDrop(player, position) end;
