@@ -1,0 +1,10 @@
+Hey, 2cwldys here. Project Lead of Paradigm Shift.
+
+Thank you for opening this document, because today we are going to cover some serious rule of thumb and how to ensure a secure, safe group project.
+
+- Pay attention to github webhooks, if they are provided (in discord or external third party applications).
+- Every time you sit down on your computer, to work on this project, check the github repo for any new commits, and pull other's work before doing anything.
+- Don't ever overwrite eachother's work, go into voice with those you collaborate with before dealing with crossovers.
+- Don't push every little change, push major amounts of work or at least the work you've done before you stopped for the day. (or awaiting expected files)
+
+It is crucial that every development member, and contributors even, stay in contact with eachother.. direct communication, and don't feel afraid to ask and cooperate on certain plugins!
