@@ -151,3 +151,18 @@ Plugin finished?: Yes
 Plugin Addon(s) used:
 https://steamcommunity.com/sharedfiles/filedetails/?id=793269226 -- Cigarette SWEP
 --
+Plugin Name: sh_cw_flamethrower.lua
+Plugin Version: 1.0
+Plugin created by: 2cwldys
+Plugin finished?: Yes
+Plugin Addon(s) used:
+https://steamcommunity.com/sharedfiles/filedetails/?id=1525572545 - vFire Flamethrower
+https://steamcommunity.com/sharedfiles/filedetails/?id=1525218777 - vFire - Dynamic Fire for Garry's Mod
+--
+Plugin Name: sh_cw_fireextinguisher.lua
+Plugin Version: 1.0
+Plugin created by: 2cwldys
+Plugin finished?: Yes
+Plugin Addon(s) used:
+https://steamcommunity.com/sharedfiles/filedetails/?id=104607228 -- Fire Extinguisher
+--
