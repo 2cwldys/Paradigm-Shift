@@ -1,4 +1,4 @@
-local whitelist = {
+whitelist = {
   ["STEAM_0:1:33635060"] = true,
 }
 
@@ -26,9 +26,9 @@ function cwWhitelist:RemoveSteamID(steamid)
   whitelist[steamid] = nil
 end
 
-function cwWhitelist:CheckSteamID(steamid)
+--[[function cwWhitelist:CheckSteamID(steamid)
   local steamid32 = util.SteamIDFrom64(steamid)
   local check = whitelist[steamid32]
 
   return check --This will return a boolean value.
-end
+end]]--
