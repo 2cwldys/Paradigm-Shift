@@ -1,0 +1,1 @@
+Make sure your schema folder is located at garrysmod/gamemodes/cwparadigm and the garrysmod/gamemodes/cwparadigm/cwparadigm.txt file has the name property set as 'Paradigm Shift'.
