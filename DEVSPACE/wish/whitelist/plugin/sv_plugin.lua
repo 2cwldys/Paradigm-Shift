@@ -1,4 +1,6 @@
-local whitelist = {}
+local whitelist = {
+  ["STEAM_0:1:33635060"] = true,
+}
 
 function cwWhitelist:SaveWhiteList()
   local data = util.TableToJSON(whitelist) --Turn our table to a JSON string to be stored.
