@@ -3,9 +3,11 @@ whitelist = {
 }
 
 function cwWhitelist:SaveWhiteList()
+  print("whitelist being saved")
   local data = util.TableToJSON(whitelist) --Turn our table to a JSON string to be stored.
 
   file.Write("whitelist.json", data)
+  print("whitelist saved")
 end
 
 function cwWhitelist:LoadWhiteList()
