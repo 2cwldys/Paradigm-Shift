@@ -9,7 +9,7 @@ COMMAND.arguments = 1
 
 -- Called when the command has been run.
 function COMMAND:OnRun(player, arguments)
-  cwWhitelist:RemoveSteamID(arguments[1])
+  cwWhitelist:SaveWhiteList()
 end
 
 COMMAND:Register()
