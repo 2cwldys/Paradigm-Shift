@@ -5,16 +5,16 @@ whitelist = {
 function cwWhitelist:SaveWhiteList()
   local data = util.TableToJSON(whitelist) --Turn our table to a JSON string to be stored.
 
-  file.Write("whitelist.txt", data)
+  file.Write("whitelist.json", data)
 end
 
 function cwWhitelist:LoadWhiteList()
-  local data = file.Read("whitelist.txt", "DATA")
+  local data = file.Read("whitelist.json", "DATA")
 
   if data then
     whitelist = util.JSONToTable(data)
   else
-    file.Write("whitelist.txt", "placeholder")
+    file.Write("whitelist.json", "{}")
   end
 end
 
