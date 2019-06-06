@@ -25,10 +25,3 @@ end
 function cwWhitelist:RemoveSteamID(steamid)
   whitelist[steamid] = nil
 end
-
---[[function cwWhitelist:CheckSteamID(steamid)
-  local steamid32 = util.SteamIDFrom64(steamid)
-  local check = whitelist[steamid32]
-
-  return check --This will return a boolean value.
-end]]--

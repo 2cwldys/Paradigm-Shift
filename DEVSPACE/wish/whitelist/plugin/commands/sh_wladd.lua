@@ -1,5 +1,5 @@
 local Clockwork = Clockwork
-local COMMAND = Clockwork.command:New("whitelist");
+local COMMAND = Clockwork.command:New("wladd");
 
 COMMAND.tip = "Add a SteamID 32 to the server whitelist."
 COMMAND.text = "<string steamid32>"

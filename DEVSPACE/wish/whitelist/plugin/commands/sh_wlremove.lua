@@ -1,5 +1,5 @@
 local Clockwork = Clockwork
-local COMMAND = Clockwork.command:New("rmwhitelist");
+local COMMAND = Clockwork.command:New("wlremove");
 
 COMMAND.tip = "Remove a steamid from the server whitelist."
 COMMAND.text = "<string steamid32>"
