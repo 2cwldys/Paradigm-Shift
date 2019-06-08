@@ -6,17 +6,17 @@ function cwWhitelist:SaveWhiteList()
   print("whitelist being saved")
   local data = util.TableToJSON(whitelist) --Turn our table to a JSON string to be stored.
 
-  file.Write("whitelist.json", data)
+  file.Write("whitelist.txt", data)
   print("whitelist saved")
 end
 
 function cwWhitelist:LoadWhiteList()
-  local data = file.Read("whitelist.json", "DATA")
+  local data = file.Read("whitelist.txt", "DATA")
 
   if data then
     whitelist = util.JSONToTable(data)
   else
-    file.Write("whitelist.json", "{}")
+    file.Write("whitelist.txt", "{}")
   end
 end
 
