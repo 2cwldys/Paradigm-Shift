@@ -1,11 +1,13 @@
-ITEM.name = "Cigarette";
-ITEM.description = "A cigarette."
-ITEM.cost = 10;
-ITEM.model = "models/mordeciga/mordes/pachkacig.mdl";
-ITEM.description = "A small pack of cigarettes.'";
-ITEM.width = 1;
-ITEM.height = 1;
+ITEM.name = "Cigarette"
+ITEM.price = 10
+ITEM.model = "models/mordeciga/mordes/pachkacig.mdl"
+ITEM.width = 1
+ITEM.height = 1
 --ITEM.noBusiness = true
+
+function ITEM:GetDescription()
+	return "A small pack of cigarettes."
+end
 
 --this needs fixing.
 ITEM.iconCam = {
