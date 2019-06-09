@@ -48,7 +48,11 @@ function PANEL:Paint(width, height)
 	surface.SetFont("ixMenuMiniFont")
 	surface.SetTextColor(200, 200, 200, 255)
 	surface.SetTextPos(width * 0.5 + textWidth * 0.5, height * 0.5 - textHeight * 0.5)
-	surface.DrawText(GAMEMODE.Version)
+	
+	-- We change this because we override the version for the bottom right 
+	
+	-- surface.DrawText(GAMEMODE.Version)
+	surface.DrawText("β")
 end
 
 vgui.Register("ixCreditsLogo", PANEL, "Panel")
@@ -302,7 +306,7 @@ end
 vgui.Register("ixCredits", PANEL, "Panel")
 
 hook.Add("PopulateHelpMenu", "ixCredits", function(tabs)
-	tabs["credits"] = function(container)
+	tabs["helix credits"] = function(container)
 		container:Add("ixCredits")
 	end
 end)

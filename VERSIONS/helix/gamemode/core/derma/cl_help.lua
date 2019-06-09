@@ -95,7 +95,7 @@ function PANEL:AddCategory(name)
 	local button = self.categoryPanel:Add("ixMenuButton")
 	button:SetText(L(name))
 	-- @todo don't hardcode this but it's the only panel that needs docking at the bottom so it'll do for now
-	button:Dock(name == "credits" and BOTTOM or TOP)
+	button:Dock(name == "helix credits" and BOTTOM or TOP)
 	button.DoClick = function()
 		self:OnCategorySelected(name)
 	end
