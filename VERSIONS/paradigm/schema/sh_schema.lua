@@ -4,7 +4,7 @@
 -- Schema info
 Schema.name = "Paradigm Shift"
 Schema.author = "Paradigm Team"
-GM.Version = "| ".. "Customized for Paradigm Shift"
+GAMEMODE.Version = "| ".. "Customized for Paradigm Shift"
 
 -- Yes it looks ugly, dont judge me - Hotaru
 Schema.description = "An neo noir sci-fi set in the futuristic Mecklenburg," .. "\n" .. "               a city renown of crime and promise."
