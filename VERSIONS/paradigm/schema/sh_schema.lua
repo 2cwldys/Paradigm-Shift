@@ -4,7 +4,10 @@
 -- Schema info
 Schema.name = "Paradigm Shift"
 Schema.author = "Paradigm Team"
-Schema.description = "Paradigm Shift is a neo noir sci-fi roleplaying schema set in the futuristic Mecklenburg, a city renown of crime and promise."
+GM.Version = "| ".. "Customized for Paradigm Shift"
+
+-- Yes it looks ugly, dont judge me - Hotaru
+Schema.description = "An neo noir sci-fi set in the futuristic Mecklenburg," .. "\n" .. "               a city renown of crime and promise."
 
 -- Additional files that aren't auto-included should be included here. Note that ix.util.Include will take care of properly
 -- using AddCSLuaFile, given that your files have the proper naming scheme.
