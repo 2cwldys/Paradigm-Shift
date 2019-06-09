@@ -1,8 +1,8 @@
 
-"skeleton"
+"paradigm"
 {
 	"base" 			"helix"
-	"title" 		"Paradigm"
+	"title" 		"Paradigm Shift"
 	"author" 		"Paradigm Team"
 	"menusystem"	"1"
 }
