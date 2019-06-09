@@ -1,7 +1,0 @@
-"sample"
-{
-	"base"		"nutscript"
-	"title"		"Paradigm Shift"
-	"author"	"PS Team"
-	"menusystem" "1"
-}

@@ -1,0 +1,8 @@
+
+"skeleton"
+{
+	"base" 			"helix"
+	"title" 		"Paradigm"
+	"author" 		"Paradigm Team"
+	"menusystem"	"1"
+}

@@ -1,1 +1,0 @@
-DeriveGamemode("nutscript")
