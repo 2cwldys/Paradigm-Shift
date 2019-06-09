@@ -1,1 +1,0 @@
-For Linux support, all directory names should be lower-case.

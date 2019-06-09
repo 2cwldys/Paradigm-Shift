@@ -1,9 +1,0 @@
-"cwparadigm"
-{
-	"title"			"Paradigm Shift"
-	"author"		"2cwldys and CodeFlare"
-	"description"	"A neo noir sci-fi experience based in the far future."
-	"version"		"0.1"
-	"menusystem"	"1"
-	"workshopid"	"0"
-}
