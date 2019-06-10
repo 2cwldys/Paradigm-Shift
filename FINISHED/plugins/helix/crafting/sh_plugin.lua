@@ -1,6 +1,5 @@
---TODO: POPULATE CRAFTING ITEMS AND RECIPES
 PLUGIN.name = "Crafting"
-PLUGIN.author = "ZeMysticalTaco"
+PLUGIN.author = "ZeMysticalTaco, Modified by Hotaru"
 PLUGIN.desc = "Replacing the business menu with crafting because that's a more sensible thing to do."
 STORED_RECIPES = {}
 
@@ -39,9 +38,7 @@ function PLUGIN:AddRecipe(name, model, desc, requirements, results, id, skill, b
 		end
 	end
 end
---[[-------------------------------------------------------------------------
-TODO: For release, demonstrate full capacity of plugin.
----------------------------------------------------------------------------]]
+
 local NEW_RECIPES = {
 	["metal_downgrade_reclaimed"] = {
 		["name"] = "Breakdown: Reclaimed Metal",

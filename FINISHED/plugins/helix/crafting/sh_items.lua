@@ -8,7 +8,7 @@ ITEMS.scrap_metal = {
 	["description"] = "A small chunk of scrap metal, useless unless combined with other items.",
 	["width"] = 1,
 	["height"] = 1,
-	["chance"] = 75 --This is used for the 'item spawner plugin' this defines how many 'tickets' the item gets to spawn.
+	["price"] = 75
 }
 
 ITEMS.reclaimed_metal = {
@@ -17,7 +17,7 @@ ITEMS.reclaimed_metal = {
 	["description"] = "A small chunk of reclaimed metal, useless unless combined with other items.",
 	["width"] = 1,
 	["height"] = 1,
-	["chance"] = 25
+	["price"] = 25
 }
 
 
@@ -27,7 +27,7 @@ ITEMS.refined_metal = {
 	["description"] = "A small chunk of refined metal, useless unless combined with other items.",
 	["width"] = 1,
 	["height"] = 1,
-	["chance"] = 10
+	["price"] = 10
 }
 
 ITEMS.scrap_electronics = {
@@ -36,7 +36,7 @@ ITEMS.scrap_electronics = {
 	["description"] = "A small assorted set of Electronics, useless unless broken down into individual components or combined with other items.",
 	["width"] = 2,
 	["height"] = 1,
-	["chance"] = 45
+	["price"] = 45
 }
 
 ITEMS.refined_electronics = {
@@ -45,7 +45,7 @@ ITEMS.refined_electronics = {
 	["description"] = "A small assorted set of Electronics, it's been refined to perfection.",
 	["width"] = 2,
 	["height"] = 1,
-	["chance"] = 3
+	["price"] = 3
 }
 
 ITEMS.empty_carton_of_milk = {
@@ -54,7 +54,7 @@ ITEMS.empty_carton_of_milk = {
 	["description"] = "An empty carton of milk.",
 	["width"] = 1,
 	["height"] = 1,
-	["chance"] = 60
+	["price"] = 60
 }
 
 ITEMS.empty_can = {
@@ -63,7 +63,7 @@ ITEMS.empty_can = {
 	["description"] = "An empty can.",
 	["width"] = 1,
 	["height"] = 1,
-	["chance"] = 80
+	["price"] = 80
 }
 
 ITEMS.empty_glass_bottle = {
@@ -72,7 +72,7 @@ ITEMS.empty_glass_bottle = {
 	["description"] = "An empty glass bottle.",
 	["width"] = 1,
 	["height"] = 1,
-	["chance"] = 80
+	["price"] = 80
 }
 
 ITEMS.empty_paint_can = {
@@ -81,7 +81,7 @@ ITEMS.empty_paint_can = {
 	["description"] = "An empty paint can.",
 	["width"] = 1,
 	["height"] = 1,
-	["chance"] = 80
+	["price"] = 80
 }
 
 ITEMS.junk_newspaper = {
@@ -90,7 +90,7 @@ ITEMS.junk_newspaper = {
 	["description"] = "An old issue of the City Times, dated a couple years ago.",
 	["width"] = 1,
 	["height"] = 1,
-	["chance"] = 80
+	["price"] = 80
 }
 
 ITEMS.empty_jar = {
@@ -99,7 +99,7 @@ ITEMS.empty_jar = {
 	["description"] = "An empty jar, looks like there was once some vitamin supplement inside.",
 	["width"] = 1,
 	["height"] = 1,
-	["chance"] = 80
+	["price"] = 80
 }
 
 ITEMS.cardboard_scraps = {
@@ -108,7 +108,7 @@ ITEMS.cardboard_scraps = {
 	["description"] = "Some scraps of cardboard.",
 	["width"] = 2,
 	["height"] = 1,
-	["chance"] = 80
+	["price"] = 80
 }
 
 ITEMS.locker_door = {
@@ -117,7 +117,7 @@ ITEMS.locker_door = {
 	["description"] = "A simple locker door.",
 	["width"] = 1,
 	["height"] = 4,
-	["chance"] = 1
+	["price"] = 1
 }
 
 ITEMS.cloth_scrap = {
@@ -126,7 +126,7 @@ ITEMS.cloth_scrap = {
 	["description"] = "A set of scrap cloth.",
 	["width"] = 1,
 	["height"] = 1,
-	["chance"] = 90
+	["price"] = 90
 }
 
 ITEMS.sewn_cloth = {
@@ -135,7 +135,7 @@ ITEMS.sewn_cloth = {
 	["description"] = "A sewn set of cloth, useful for crafting clothing.",
 	["width"] = 1,
 	["height"] = 1,
-	["chance"] = 10
+	["price"] = 10
 }
 
 ITEMS.battered_scrap = {
@@ -144,7 +144,7 @@ ITEMS.battered_scrap = {
 	["description"] = "A lower tier set of metal, useful to put together with scrap.",
 	["width"] = 1,
 	["height"] = 1,
-	["chance"] = 85
+	["price"] = 85
 }
 
 ITEMS.burned_metal = {
@@ -153,7 +153,7 @@ ITEMS.burned_metal = {
 	["description"] = "A useless chunk of burnt metal, flimsy and practically worthless.",
 	["width"] = 1,
 	["height"] = 1,
-	["chance"] = 85
+	["price"] = 85
 }
 
 ITEMS.empty_ammo_box = {
@@ -162,7 +162,7 @@ ITEMS.empty_ammo_box = {
 	["description"] = "An empty box of used ammunition.",
 	["width"] = 1,
 	["height"] = 1,
-	["chance"] = 75
+	["price"] = 75
 }
 
 ITEMS.bullet_casings = {
@@ -171,7 +171,7 @@ ITEMS.bullet_casings = {
 	["description"] = "A set of bullet casings, used up",
 	["width"] = 1,
 	["height"] = 1,
-	["chance"] = 85
+	["price"] = 85
 }
 
 ITEMS.gunpowder = {
@@ -180,7 +180,7 @@ ITEMS.gunpowder = {
 	["description"] = "Black powder as it's commonly called, gunpowder is one of the primary ingredients of weaponry.",
 	["width"] = 1,
 	["height"] = 1,
-	["chance"] = 45
+	["price"] = 45
 }
 
 ITEMS.scrap_screwdriver = {
@@ -189,7 +189,7 @@ ITEMS.scrap_screwdriver = {
 	["description"] = "A screwdriver fashioned from scrap metal",
 	["width"] = 1,
 	["height"] = 1,
-	["chance"] = 10
+	["price"] = 10
 }
 
 ITEMS.plank = {
@@ -198,7 +198,7 @@ ITEMS.plank = {
 	["description"] = "A wooden plank.",
 	["width"] = 1,
 	["height"] = 3,
-	["chance"] = 80
+	["price"] = 80
 }
 
 ITEMS.wood_piece = {
@@ -207,7 +207,7 @@ ITEMS.wood_piece = {
 	["description"] = "A piece of wood.",
 	["width"] = 1,
 	["height"] = 3,
-	["chance"] = 80
+	["price"] = 80
 }
 
 ITEMS.scrap_hammer = {
@@ -216,7 +216,7 @@ ITEMS.scrap_hammer = {
 	["description"] = "A weak scrap hammer devised of several tools.",
 	["width"] = 1,
 	["height"] = 2,
-	["chance"] = 80
+	["price"] = 80
 }
 
 ITEMS.normal_screwdriver = {
@@ -225,7 +225,7 @@ ITEMS.normal_screwdriver = {
 	["description"] = "A full fledged screwdriver.",
 	["width"] = 2,
 	["height"] = 1,
-	["chance"] = 20,
+	["price"] = 20,
 	["tool"] = true
 }
 
@@ -238,6 +238,6 @@ for k, v in pairs(ITEMS) do
 	ITEM.category = "Crafting"
 	ITEM.width = v.width or 1
 	ITEM.height = v.height or 1
-	ITEM.chance = v.chance or 0
+	ITEM.price = v.price or 0
 	ITEM.isTool = v.tool or false
 end
