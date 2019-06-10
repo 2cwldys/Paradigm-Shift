@@ -11,7 +11,9 @@ end
 function PLUGIN:CheckPassword(steamid)
   local steamid32 = util.SteamIDFrom64(steamid)
   local check = wlPlayers[steamid32]
-
+  
+  print("SteamID " .. util.SteamIDFrom64(steamid) .. " Tried to connect" )
+  
   if check == true then
     return true
   else
