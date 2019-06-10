@@ -12,5 +12,5 @@
 
 LANGUAGE = {
 	serverWelcome = "Welcome to the server, %s!",
-	you = "Stats",
+	you = "Stats"
 }
