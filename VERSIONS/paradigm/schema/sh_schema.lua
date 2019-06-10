@@ -17,6 +17,10 @@ Schema.description = "An neo noir sci-fi set in the futuristic Mecklenburg," .. 
 -- in a library reside in your cl/sh/sv_schema.lua files. Your gamemode hooks should reside in cl/sh/sv_hooks.lua. Logical
 -- groupings of functions should be put into their own libraries in the libs/ folder. Everything in the libs/ folder is loaded
 -- automatically.
+
+-- Include netstream
+ix.util.Include("libs/thirdparty/sh_netstream2.lua")
+
 ix.util.Include("cl_schema.lua")
 ix.util.Include("sv_schema.lua")
 
