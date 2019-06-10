@@ -279,7 +279,7 @@ vgui.Register("ixCharacterInfo", PANEL, "DScrollPanel")
 hook.Add("CreateMenuButtons", "ixCharInfo", function(tabs)
 	tabs["you"] = {
 		bHideBackground = true,
-		buttonColor = team.GetColor(LocalPlayer():Team()),
+		-- buttonColor = team.GetColor(LocalPlayer():Team()),
 		Create = function(info, container)
 			container.infoPanel = container:Add("ixCharacterInfo")
 
