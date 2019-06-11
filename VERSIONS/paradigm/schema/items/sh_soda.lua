@@ -1,4 +1,3 @@
-
 ITEM.name = "Soda"
 ITEM.model = Model("models/props_junk/popcan01a.mdl")
 ITEM.description = "A blue can filled with some carbonated flavoured water. Delicious."
